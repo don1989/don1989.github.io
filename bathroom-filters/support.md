@@ -37,7 +37,7 @@ If you have any questions, suggestions, or need further assistance, please feel 
 
 ## Feedback
 
-We value your feedback! Please take a moment to rate and review our extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/jdappbfdgiobfcocldgbgkahpbfilhod/reviews). Your support is greatly appreciated!
+We value your feedback! Please take a moment to rate and review our extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/doimjlepfkdblpncdddjpelbggbkdhmo/reviews). Your support is greatly appreciated!
 
 ---
 
