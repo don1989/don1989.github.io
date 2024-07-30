@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy is applicable to the Axel app (hereinafter referred to as "Application") for mobile devices, which was developed by Don Demetrius (hereinafter referred to as "Service Provider") as a a Free service. This service is provided "AS IS".
+This privacy policy is applicable to the Axel Arcade app (hereinafter referred to as "Application") for mobile devices, which was developed by Don Demetrius (hereinafter referred to as "Service Provider") as a a Free service. This service is provided "AS IS".
 
 **What information does the Application obtain and how is it used?**  
 **User Provided Information**
