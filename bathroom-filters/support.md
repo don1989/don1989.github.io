@@ -33,7 +33,7 @@ Extensions are updated automatically through the Chrome Web Store. Ensure you ha
 
 If you have any questions, suggestions, or need further assistance, please feel free to reach out:
 
-- **Email**: [dondemetrius7@gmail.com](mailto:dev@bathroomfilters.com)
+- **Email**: [support@dondemetrius.com](mailto:support@dondemetrius.com)
 
 ## Feedback
 
