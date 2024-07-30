@@ -48,4 +48,4 @@ Thank you for using Bathroom Filters for Rightmove!
 
 ---
 
-Effective Date: [Date]
+Effective Date: 30th July 2024
